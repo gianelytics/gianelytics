@@ -1,7 +1,7 @@
 <h1 align="center"> Hola👋, I'm Gianella</h1>
 
 - :star: Economics student, responsible, punctual, easy to adapt to changes and ability to work in a team.
-- 💡 I am very interested in developing my career in finance, banking, data analysis and data science
+- 💡 I am very interested in developing my profession in finance, banking, data analysis and data science
 - 👩‍💻 I recently obtained a certification as a Data Analyst in the Laboratoria and Ibm program.
 - 🔎 I am currently looking for a professional challenge, so I would love to enter the tech world as a data analyst and data scientist.
 - 📫 How to reach me **gianella.sandoval22@gmail.com**
