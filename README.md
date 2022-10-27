@@ -1,4 +1,4 @@
-<h1 align="center"> Hola👋, I'm Gianella</h1>
+<h1 align="center"> Hello👋, I'm Gianella</h1>
 
 - :star: Economics student, responsible, punctual, easy to adapt to changes and ability to work in a team.
 - 💡 I am very interested in developing my profession in finance, banking, data analysis and data science
