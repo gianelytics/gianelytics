@@ -8,7 +8,7 @@
 
 <h3 align="left"> You can find me: </h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/gianella-sandoval" target="blank"><img align="center" src="https://github.com/gianelytics/icon/blob/9818e0ebc2693d8f5dcc3c3576d83918dfc91359/linkedin.png" alt="www.linkedin.com/in/gianella-sandoval" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gianella-sandoval/" target="blank"><img align="center" src="https://github.com/gianelytics/icon/blob/9818e0ebc2693d8f5dcc3c3576d83918dfc91359/linkedin.png" alt="www.linkedin.com/in/gianella-sandoval" height="30" width="40" /></a>
 </p>
 
 
