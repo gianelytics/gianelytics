@@ -22,7 +22,7 @@
     Laboratoria e IBM
 
 <p align="left">  
-<a target="_blank"><img style="margin: 10px" src="https://github.com/gianelytics/icon/blob/bb7482bc099e0e39f1acdfa63c72041b92b79ad3/laboratoria.png" alt="Laboratoria" height="30" /></a> 
+<a  href="https://app.laboratoria.la"  target="_blank"><img style="margin: 10px" src="https://github.com/gianelytics/icon/blob/bb7482bc099e0e39f1acdfa63c72041b92b79ad3/laboratoria.png" alt="Laboratoria" height="30" /></a> 
 <a target="_blank"><img style="margin: 10px" src="https://github.com/gianelytics/icon/blob/59bbb467be102c6b6c1eecbad52c7358f055ea11/ibm.jpg" alt="Ibm" height="30" /</a> 
   
 - ✨ Data Analytics and Visualization Camp
@@ -32,7 +32,7 @@
       Platzi
   
 <p align="left">  
-<a target="_blank"><img style="margin: 10px" src="https://github.com/gianelytics/icon/blob/9818e0ebc2693d8f5dcc3c3576d83918dfc91359/platzi.png" alt="Platzi" height="50" /></a> </p>
+<a href="https://platzi.com/" target="_blank"><img style="margin: 10px" src="https://github.com/gianelytics/icon/blob/9818e0ebc2693d8f5dcc3c3576d83918dfc91359/platzi.png" alt="Platzi" height="50" /></a> </p>
  
   
 - ✨Curso de Análisis de Negocios para ciencia de Datos.
@@ -47,7 +47,7 @@
       Udemy
   
 <p align="left">  
-<a target="_blank"><img style="margin: 10px" src="https://github.com/gianelytics/icon/blob/9818e0ebc2693d8f5dcc3c3576d83918dfc91359/udemy.png" alt="Udemy" height="50" /></a> </p>
+<a  href="https://www.udemy.com/" target="_blank"><img style="margin: 10px" src="https://github.com/gianelytics/icon/blob/9818e0ebc2693d8f5dcc3c3576d83918dfc91359/udemy.png" alt="Udemy" height="50" /></a> </p>
   
 - ✨Tablas dinámicas, dashboards, macros y más con Google Sheets
 - ✨Power BI & Business Intelligence
