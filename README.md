@@ -35,13 +35,13 @@
 <a href="https://platzi.com/" target="_blank"><img style="margin: 10px" src="https://github.com/gianelytics/icon/blob/9818e0ebc2693d8f5dcc3c3576d83918dfc91359/platzi.png" alt="Platzi" height="50" /></a> </p>
  
   
-- ✨Curso de Análisis de Negocios para ciencia de Datos.
-- ✨Introducción a la Terminal y Líneas de Comando.
-- ✨Curso Básico de Python
-- ✨Curso Profesional de Git y GitHub
-- ✨Curso de Python Intermedio
-- ✨Curso Google Data Studio
-- ✨Curso Análisis Exploratorio de Datos
+- ✨[Curso de Análisis de Negocios para ciencia de Datos](https://platzi.com/p/gianella22/curso/2178-analisis-exploratorio-datos-old/diploma/detalle/)
+- ✨[Introducción a la Terminal y Líneas de Comando](https://platzi.com/p/gianella22/curso/2292-terminal/diploma/detalle/)
+- ✨[Curso Básico de Python](https://platzi.com/p/gianella22/curso/1937-python-basico/diploma/detalle/)
+- ✨[Curso Profesional de Git y GitHub](https://platzi.com/p/gianella22/curso/2178-analisis-exploratorio-datos-old/diploma/detalle/)
+- ✨[Curso de Python Intermedio]
+- ✨[Curso Google Data Studio](https://platzi.com/p/gianella22/curso/1838-data-studio/diploma/detalle/)
+- ✨[Curso Análisis Exploratorio de Datos](https://platzi.com/p/gianella22/curso/2178-analisis-exploratorio-datos-old/diploma/detalle/)
 </p>
 
       Udemy
@@ -49,8 +49,8 @@
 <p align="left">  
 <a  href="https://www.udemy.com/" target="_blank"><img style="margin: 10px" src="https://github.com/gianelytics/icon/blob/9818e0ebc2693d8f5dcc3c3576d83918dfc91359/udemy.png" alt="Udemy" height="50" /></a> </p>
   
-- ✨Tablas dinámicas, dashboards, macros y más con Google Sheets
-- ✨Power BI & Business Intelligence
+- ✨[Tablas dinámicas, dashboards, macros y más con Google Sheets](ude.my/UC-1f1c1e58-c6af-4db6-853b-0e09172119fe)
+- ✨[Power BI & Business Intelligence](ude.my/UC-adb4336e-9aff-4ff6-a7f2-7ff1f8218fbf)
 
   
   
