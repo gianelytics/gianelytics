@@ -54,7 +54,7 @@ In this bootcamp, I learned **statistical concepts**, as well as skills in manag
 
 
 ## 📌Courses
-> - [Competencias digitales para profesionales](https://github.com/gianelytics/gianelytics/blob/69facc8d187960d938607982796d4cae57cc0be7/activate_certificate.pdf) - Google (2023)
+> - [Competencias digitales para profesionales](certificate_.pdf) - Google (2023)
 > - [Tablas dinámicas, dashboards, macros y más con Google Sheets](https://www.udemy.com/certificate/UC-1f1c1e58-c6af-4db6-853b-0e09172119fe/) - Udemy (2022)
 > - [Power BI & Business Intelligence](https://www.udemy.com/certificate/UC-adb4336e-9aff-4ff6-a7f2-7ff1f8218fbf/) - Udemy (2022)
 > - [Diseño de interfaz (UI) con Figma](https://www.udemy.com/certificate/UC-a033a6d8-9ca2-495e-a3cc-13fdffa3c349/) - Udemy (2022)
