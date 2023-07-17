@@ -9,8 +9,8 @@
 - :page_facing_up: [Cv virtual](https://drive.google.com/file/d/1vBAmHWnuKXSi6rpagbu2yAnAEF1GM56c/view?usp=sharing)
 
 ### 📫 Contact me
- <a href = "gianella.sandoval22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="www.linkedin.com/in/gianella-sandoval" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gianella.sandoval22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianella-sandoval/)
 
 ## 📌My projects
 
@@ -41,7 +41,7 @@
 ## 📌Certifications
 
     NTT DATA
-> - [Python Data Analyst](https://www.nttdatafoundation.com/es/proyectos/escuela-talento-digital) (2023)
+> - [Python Data Analyst](https://drive.google.com/file/d/1QkiL7BgOyRPhfKEriTXy_Qll9xmWYS7o/view?usp=sharing) (2023)
  
 During the bootcamp, I acquired skills in **Python**, **data analysis**, **data cleansing** and **data visualization** using relational and non-relational databases. I also developed expertise in the use of libraries such as Numpy, Pandas, Matplotlib and Seaborn, as well as knowledge in **MongoDB, MySQL, SQL** and Microsoft **PowerBI**.
 
@@ -49,13 +49,13 @@ In addition, I strengthened my skills in **collaborative work**, **effective com
 
     Laboratoria e IBM 
 
-> - [Data Analytics and Visualization Camp](https://www.credly.com/badges/3d37fa25-b8be-46f7-83ae-36d66edee850/linked_in_profile) (2022)
+> - [Data Analytics](https://www.credly.com/badges/3d37fa25-b8be-46f7-83ae-36d66edee850/linked_in_profile)[ and Visualization Camp](https://drive.google.com/file/d/16iU4_BkZzYlU9a5a1WK3UIZUSY-u6JQ9/view?usp=sharing) (2022)
 
 In this bootcamp, I learned **statistical concepts**, as well as skills in managing **spreadsheets** and **database engines in the cloud**. These skills allow me to sort, clean, aggregate and manage large amounts of data, and then use tools such as Microsoft **SQL Server**, Microsoft **Power BI** and Microsoft **Excel** effectively to generate **visualizations**, **reports** and support **decision making** in business contexts. In addition, I have skills in data analysis and a strong ability to use these tools to gain valuable insights and contribute to the success of projects.
 
 
 ## 📌Courses
-> - [Competencias digitales para profesionales](certificate_.pdf) - Google (2023)
+> - [Competencias digitales para profesionales](https://drive.google.com/file/d/17tx47t6h9gDZN1wstI20Hu7JZRCQJYRb/view?usp=sharing) - Google (2023)
 > - [Tablas dinámicas, dashboards, macros y más con Google Sheets](https://www.udemy.com/certificate/UC-1f1c1e58-c6af-4db6-853b-0e09172119fe/) - Udemy (2022)
 > - [Power BI & Business Intelligence](https://www.udemy.com/certificate/UC-adb4336e-9aff-4ff6-a7f2-7ff1f8218fbf/) - Udemy (2022)
 > - [Diseño de interfaz (UI) con Figma](https://www.udemy.com/certificate/UC-a033a6d8-9ca2-495e-a3cc-13fdffa3c349/) - Udemy (2022)
