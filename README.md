@@ -6,7 +6,7 @@
 - 🔎 I am currently looking for a professional challenge, so I would love to enter the tech world as a data analyst and data scientist.
 - :rocket: Excited to contribute my skills and expertise to a dynamic and forward-thinking organization.
 - :globe_with_meridians: Keen interest in staying updated with the latest trends in finance, banking, and data science through continuous learning and professional development.
-- :page_facing_up: [Cv virtual](https://drive.google.com/file/d/1vBAmHWnuKXSi6rpagbu2yAnAEF1GM56c/view?usp=sharing)
+- :page_facing_up: [Cv virtual](https://drive.google.com/file/d/1wFmODKV0hkQEYqtsotHhbjVMRPrfSin-/view?usp=drive_link)
 
 ### 📫 Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gianella.sandoval22@gmail.com)
