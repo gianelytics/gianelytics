@@ -1,12 +1,13 @@
 <h1 align="center"> Hi👋, I'm Gianella Sandoval</h1>
 
-- :mortar_board: Graduate in economics, analytical and organized, results-oriented and responsible, with the ability to adapt to change and teamwork.
+- :mortar_board: Bachelor in Economics, analytical and organized, results-oriented and responsible, with the ability to adapt to change and teamwork.
 - 💡 I am very interested in developing my profession in finance, banking, data analysis and data science
--  👩💻I recently finished a Python Data Analyst Bootcamp in the NTT Data program.
-- 🔎 I am currently looking for a professional challenge, so I would love to enter the tech world as a data analyst and data scientist.
+- 📊 I recently finished a Python Data Analyst Bootcamp in the NTT Data program.
+- 💻 Currently, I am pursuing a certification in Technology Development taught by Digital House, in collaboration with Globant and Mercado Libre.
+- 🔎 I am looking for a professional challenge, so I would love to get into the tech world as an analyst and data scientist.
 - :rocket: Excited to contribute my skills and expertise to a dynamic and forward-thinking organization.
 - :globe_with_meridians: Keen interest in staying updated with the latest trends in finance, banking, and data science through continuous learning and professional development.
-- :page_facing_up: [Cv virtual](https://drive.google.com/file/d/1wFmODKV0hkQEYqtsotHhbjVMRPrfSin-/view?usp=drive_link)
+- :page_facing_up: [Cv virtual](https://drive.google.com/file/d/1mn-qC-AvlsFDhoM2fLS7vWI54Tvj7Q6Z/view?usp=sharing)
 
 ### 📫 Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gianella.sandoval22@gmail.com)
@@ -14,6 +15,7 @@
 
 ## 📌My projects
 
+- [Crime in the City of Chicago](https://github.com/gianelytics/Criminalidad-en-Chicago.git)
 - [IBM HR Analytics Employee Attrition & Performance](https://github.com/gianelytics/IBM-HR-Analytics.git)
 - [Loss of Telco Customers](https://github.com/gianelytics/Loss-of-Telco-Customers.git)
 - [Hotel Cancellations Analysis](https://github.com/gianelytics/Hotel-Cancellations-Analysis.git)
@@ -39,6 +41,11 @@
 <br>
 
 ## 📌Certifications
+
+    DIGITAL HOUSE - GLOBANT - MERCADO LIBRE
+> - [Certified Tech Developer] (2023)
+
+Studying a programming career with training in **Front End, Back End, infrastructure and database**. In addition, I developed soft skills such as **learning agility, teamwork, effective communication** and adopted a **professional attitude.**
 
     NTT DATA
 > - [Python Data Analyst](https://drive.google.com/file/d/1QkiL7BgOyRPhfKEriTXy_Qll9xmWYS7o/view?usp=sharing) (2023)
